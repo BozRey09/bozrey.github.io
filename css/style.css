@@ -1,0 +1,36 @@
+body {
+  background-color: rgb(49, 25, 25);
+  background-image: url(../img/img3.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  min-height: auto;
+  width: 1000px;
+  margin: auto;
+}
+div {
+  background-color: #5d4343;
+  opacity: 0.8;
+  padding-bottom: 6rem;
+  padding-right: 6rem;
+  padding-left: 6rem;
+  padding-top: 6rem;
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 7%;
+}
+
+h1 {
+  color: cornsilk;
+}
+
+h3 {
+  color: cornsilk;
+}
