@@ -3,24 +3,29 @@ body {
 }
 .jumbotron {
   padding-top: 10rem;
-  background-color: rgb(4, 77, 160);
+  background-image: url(mycv/img/img3.png);
 }
 section {
   padding-top: 6rem;
 }
+.navbar {
+  background-image: url(mycv/img/img4.jpg);
+  box-shadow: #ffffff;
+}
 #name {
-  color: rgb(5, 0, 0);
+  color: rgb(252, 252, 252);
 }
 
 #name2 {
   color: #fff;
 }
 #gallery {
-  background-color: rgb(4, 77, 160);
+  padding-top: 0rem;
+  background-image: url(mycv/img/img3.png);
 }
 
 footer {
-  height: 200px;
+  height: 150px;
   display: flex;
   flex-direction: column;
   align-items: center;

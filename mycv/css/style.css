@@ -1,6 +1,6 @@
 body {
-  background-color: rgb(49, 25, 25);
-  background-image: url(../img/img3.jpg);
+  background-color: rgb(2, 3, 66);
+  background-image: url(../img/img3.png);
   background-repeat: repeat;
   background-size: 100%;
   background-attachment: fixed;
@@ -9,7 +9,7 @@ body {
   margin: auto;
 }
 div {
-  background-color: #5d4343;
+  background-color: rgb(4, 77, 160);
   border-radius: 25px;
   opacity: 0.8;
   padding-bottom: 6rem;
